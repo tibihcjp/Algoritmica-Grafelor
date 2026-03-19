@@ -1,0 +1,9 @@
+.vs/
+*.user
+*.suo
+*.vsidx
+Debug/
+Release/
+*.exe
+*.obj
+*.o
